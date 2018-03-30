@@ -1,2 +1,2 @@
 # dimdat
-data repo for dimdat blog data and scripts
+data repo for datasets on www.dimdat.com
