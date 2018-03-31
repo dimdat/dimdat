@@ -1,0 +1,326 @@
+{
+    "largest_city":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"largest_city"
+    },
+    "total_square_kilometers":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"total_square_kilometers"
+    },
+    "established_date":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"established_date"
+    },
+    "usps_code":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"usps_code"
+    },
+    "land_square_kilometers":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"land_square_kilometers"
+    },
+    "is_incorporated":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"is_incorporated"
+    },
+    "uscg_code":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"uscg_code"
+    },
+    "category":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"category"
+    },
+    "land_square_miles":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"land_square_miles"
+    },
+    "is_state":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"is_state"
+    },
+    "representatives":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"representatives"
+    },
+    "iso_3166":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"iso_3166"
+    },
+    "water_square_miles":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"water_square_miles"
+    },
+    "capital":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"capital"
+    },
+    "water_square_kilometers":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"water_square_kilometers"
+    },
+    "population":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"population"
+    },
+    "ansi_alphabetic_code":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"ansi_alphabetic_code"
+    },
+    "is_territory":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"is_territory"
+    },
+    "ansi_numeric_code":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"ansi_numeric_code"
+    },
+    "ap_abbrev":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"ap_abbrev"
+    },
+    "acquired_date":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"acquired_date"
+    },
+    "is_federal_district":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"is_federal_district"
+    },
+    "gpo_abbrev":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"gpo_abbrev"
+    },
+    "is_commonwealth":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"is_commonwealth"
+    },
+    "is_organized":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"is_organized"
+    },
+    "name":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"name"
+    },
+    "total_square_miles":{
+       "category":"",
+       "description":"",
+       "data_type":"string",
+       "tags":[
+ 
+       ],
+       "extra":{
+          "country":"United States of America"
+       },
+       "title":"total_square_miles"
+    }
+ }
