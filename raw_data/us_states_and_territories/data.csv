@@ -1,0 +1,58 @@
+name,category,is_commonwealth,is_state,is_territory,is_federal_district,iso_3166,ansi_alphabetic_code,ansi_numeric_code,usps_code,uscg_code,gpo_abbrev,ap_abbrev,is_incorporated,is_organized,capital,largest_city,acquired_date,established_date,population,total_square_miles,total_square_kilometers,land_square_miles,land_square_kilometers,water_square_miles,water_square_kilometers,representatives
+Alabama,State,0,1,0,0,US-AL,AL,1,AL,AL,Ala.,Ala.,1,1,Montgomery,Birmingham,,"Dec 14, 1819","4,874,747","52,420","135,767","50,645","131,171","1,775","4,597",7
+Alaska,State,0,1,0,0,US-AK,AK,2,AK,AK,Alaska,Alaska,1,1,Juneau,Anchorage,,"Jan 3, 1959","739,795","665,384","1,723,337","570,641","1,477,953","94,743","245,384",1
+Arizona,State,0,1,0,0,US-AZ,AZ,4,AZ,AZ,Ariz.,Ariz.,1,1,Phoenix,Phoenix,,"Feb 14, 1912","7,016,270","113,990","295,234","113,594","294,207",396,"1,026",9
+Arkansas,State,0,1,0,0,US-AR,AR,5,AR,AR,Ark.,Ark.,1,1,Little Rock,Little Rock,,"Jun 15, 1836","3,004,279","53,179","137,732","52,035","134,771","1,143","2,961",4
+California,State,0,1,0,0,US-CA,CA,6,CA,CF,Calif.,Calif.,1,1,Sacramento,Los Angeles,,"Sep 9, 1850","39,536,653","163,695","423,967","155,779","403,466","7,916","20,501",53
+Colorado,State,0,1,0,0,US-CO,CO,8,CO,CL,Colo.,Colo.,1,1,Denver,Denver,,"Aug 1, 1876","5,607,154","104,094","269,601","103,642","268,431",452,"1,170",7
+Connecticut,State,0,1,0,0,US-CT,CT,9,CT,CT,Conn.,Conn.,1,1,Hartford,Bridgeport,,"Jan 9, 1788","3,588,184","5,543","14,357","4,842","12,542",701,"1,816",5
+Delaware,State,0,1,0,0,US-DE,DE,10,DE,DL,Del.,Del.,1,1,Dover,Wilmington,,"Dec 7, 1787","961,939","2,489","6,446","1,949","5,047",540,"1,399",1
+District of Columbia,Federal district,0,0,0,1,US-DC,DC,11,DC,DC,D.C.,D.C.,1,1,Washington DC,Washington DC,,"Jul 16, 1790","693,972",68,176,61,158,7,18,1
+Florida,State,0,1,0,0,US-FL,FL,12,FL,FL,Fla.,Fla.,1,1,Tallahassee,Jacksonville,,"Mar 3, 1845","20,984,400","65,758","170,312","53,625","138,887","12,133","31,424",27
+Georgia,State,0,1,0,0,US-GA,GA,13,GA,GA,Ga.,Ga.,1,1,Atlanta,Atlanta,,"Jan 2, 1788","10,429,379","59,425","153,910","57,513","148,959","1,912","4,951",14
+Hawaii,State,0,1,0,0,US-HI,HI,15,HI,HA,Hawaii,Hawaii,1,1,Honolulu,Honolulu,,"Aug 21, 1959","1,427,538","10,932","28,313","6,423","16,635","4,509","11,678",2
+Idaho,State,0,1,0,0,US-ID,ID,16,ID,ID,Idaho,Idaho,1,1,Boise,Boise,,"Jul 3, 1890","1,716,943","83,569","216,443","82,643","214,045",926,"2,398",2
+Illinois,State,0,1,0,0,US-IL,IL,17,IL,IL,Ill.,Ill.,1,1,Springfield,Chicago,,"Dec 3, 1818","12,802,023","57,914","149,995","55,519","143,793","2,395","6,202",18
+Indiana,State,0,1,0,0,US-IN,IN,18,IN,IN,Ind.,Ind.,1,1,Indianapolis,Indianapolis,,"Dec 11, 1816","6,666,818","36,420","94,326","35,826","92,789",593,"1,537",9
+Iowa,State,0,1,0,0,US-IA,IA,19,IA,IA,Iowa,Iowa,1,1,Des Moines,Des Moines,,"Dec 28, 1846","3,145,711","56,273","145,746","55,857","144,669",416,"1,077",4
+Kansas,State,0,1,0,0,US-KS,KS,20,KS,KA,Kans.,Kan.,1,1,Topeka,Wichita,,"Jan 29, 1861","2,913,123","82,278","213,100","81,759","211,754",520,"1,346",4
+Kentucky,State (Commonwealth),1,1,0,0,US-KY,KY,21,KY,KY,Ky.,Ky.,1,1,Frankfort,Louisville,,"Jun 1, 1792","4,454,189","40,408","104,656","39,486","102,269",921,"2,387",6
+Louisiana,State,0,1,0,0,US-LA,LA,22,LA,LA,La.,La.,1,1,Baton Rouge,New Orleans,,"Apr 30, 1812","4,684,333","52,378","135,659","43,204","111,898","9,174","23,761",6
+Maine,State,0,1,0,0,US-ME,ME,23,ME,ME,Maine,Maine,1,1,Augusta,Portland,,"Mar 15, 1820","1,335,907","35,380","91,633","30,843","79,883","4,537","11,750",2
+Maryland,State,0,1,0,0,US-MD,MD,24,MD,MD,Md.,Md.,1,1,Annapolis,Baltimore,,"Apr 28, 1788","6,052,177","12,406","32,131","9,707","25,142","2,699","6,990",8
+Massachusetts,State (Commonwealth),1,1,0,0,US-MA,MA,25,MA,MS,Mass.,Mass.,1,1,Boston,Boston,,"Feb 6, 1788","6,859,819","10,554","27,336","7,800","20,202","2,754","7,134",9
+Michigan,State,0,1,0,0,US-MI,MI,26,MI,MC,Mich.,Mich.,1,1,Lansing,Detroit,,"Jan 26, 1837","9,962,311","96,714","250,487","56,539","146,435","40,175","104,052",14
+Minnesota,State,0,1,0,0,US-MN,MN,27,MN,MN,Minn.,Minn.,1,1,St. Paul,Minneapolis,,"May 11, 1858","5,576,606","86,936","225,163","79,627","206,232","7,309","18,930",8
+Mississippi,State,0,1,0,0,US-MS,MS,28,MS,MI,Miss.,Miss.,1,1,Jackson,Jackson,,"Dec 10, 1817","2,984,100","48,432","125,438","46,923","121,531","1,508","3,907",4
+Missouri,State,0,1,0,0,US-MO,MO,29,MO,MO,Mo.,Mo.,1,1,Jefferson City,Kansas City,,"Aug 10, 1821","6,113,532","69,707","180,540","68,742","178,040",965,"2,501",8
+Montana,State,0,1,0,0,US-MT,MT,30,MT,MT,Mont.,Mont.,1,1,Helena,Billings,,"Nov 8, 1889","1,050,493","147,040","380,831","145,546","376,962","1,494","3,869",1
+Nebraska,State,0,1,0,0,US-NE,NE,31,NE,NB,Nebr.,Neb.,1,1,Lincoln,Omaha,,"Mar 1, 1867","1,920,076","77,348","200,330","76,824","198,974",524,"1,356",3
+Nevada,State,0,1,0,0,US-NV,NV,32,NV,NV,Nev.,Nev.,1,1,Carson City,Las Vegas,,"Oct 31, 1864","2,998,039","110,572","286,380","109,781","284,332",791,"2,048",4
+New Hampshire,State,0,1,0,0,US-NH,NH,33,NH,NH,N.H.,N.H.,1,1,Concord,Manchester,,"Jun 21, 1788","1,342,795","9,349","24,214","8,953","23,187",397,"1,027",2
+New Jersey,State,0,1,0,0,US-NJ,NJ,34,NJ,NJ,N.J.,N.J.,1,1,Trenton,Newark,,"Dec 18, 1787","9,005,644","8,723","22,591","7,354","19,047","1,368","3,544",12
+New Mexico,State,0,1,0,0,US-NM,NM,35,NM,NM,N. Mex.,N.M.,1,1,Santa Fe,Albuquerque,,"Jan 6, 1912","2,088,070","121,590","314,917","121,298","314,161",292,757,3
+New York,State,0,1,0,0,US-NY,NY,36,NY,NY,N.Y.,N.Y.,1,1,Albany,New York City,,"Jul 26, 1788","19,849,399","54,555","141,297","47,126","122,057","7,429","19,240",27
+North Carolina,State,0,1,0,0,US-NC,NC,37,NC,NC,N.C.,N.C.,1,1,Raleigh,Charlotte,,"Nov 21, 1789","10,273,419","53,819","139,391","48,618","125,920","5,201","13,471",13
+North Dakota,State,0,1,0,0,US-ND,ND,38,ND,ND,N. Dak.,N.D.,1,1,Bismarck,Fargo,,"Nov 2, 1889","755,393","70,698","183,108","69,001","178,711","1,698","4,397",1
+Ohio,State,0,1,0,0,US-OH,OH,39,OH,OH,Ohio,Ohio,1,1,Columbus,Columbus,,"Mar 1, 1803","11,658,609","44,826","116,098","40,861","105,829","3,965","10,269",16
+Oklahoma,State,0,1,0,0,US-OK,OK,40,OK,OK,Okla.,Okla.,1,1,Oklahoma City,Oklahoma City,,"Nov 16, 1907","3,930,864","69,899","181,037","68,595","177,660","1,304","3,377",5
+Oregon,State,0,1,0,0,US-OR,OR,41,OR,OR,Oreg.,Ore.,1,1,Salem,Portland,,"Feb 14, 1859","4,142,776","98,379","254,799","95,988","248,608","2,391","6,191",5
+Pennsylvania,State (Commonwealth),1,1,0,0,US-PA,PA,42,PA,PA,Pa.,Pa.,1,1,Harrisburg,Philadelphia,,"Dec 12, 1787","12,805,537","46,054","119,280","44,743","115,883","1,312","3,397",18
+Rhode Island,State,0,1,0,0,US-RI,RI,44,RI,RI,R.I.,R.I.,1,1,Providence,Providence,,"May 29, 1790","1,059,639","1,545","4,001","1,034","2,678",511,"1,324",2
+South Carolina,State,0,1,0,0,US-SC,SC,45,SC,SC,S.C.,S.C.,1,1,Columbia,Charleston,,"May 23, 1788","5,024,369","32,020","82,933","30,061","77,857","1,960","5,076",7
+South Dakota,State,0,1,0,0,US-SD,SD,46,SD,SD,S. Dak.,S.D.,1,1,Pierre,Sioux Falls,,"Nov 2, 1889","869,666","77,116","199,729","75,811","196,350","1,305","3,379",1
+Tennessee,State,0,1,0,0,US-TN,TN,47,TN,TN,Tenn.,Tenn.,1,1,Nashville,Nashville,,"Jun 1, 1796","6,715,984","42,144","109,153","41,235","106,798",909,"2,355",9
+Texas,State,0,1,0,0,US-TX,TX,48,TX,TX,Tex.,Texas,1,1,Austin,Houston,,"Dec 29, 1845","28,304,596","268,596","695,662","261,232","676,587","7,365","19,075",36
+Utah,State,0,1,0,0,US-UT,UT,49,UT,UT,Utah,Utah,1,1,Salt Lake City,Salt Lake City,,"Jan 4, 1896","3,101,833","84,897","219,882","82,170","212,818","2,727","7,064",4
+Vermont,State,0,1,0,0,US-VT,VT,50,VT,VT,Vt.,Vt.,1,1,Montpelier,Burlington,,"Mar 4, 1791","623,657","9,616","24,906","9,217","23,871",400,"1,035",1
+Virginia,State (Commonwealth),1,1,0,0,US-VA,VA,51,VA,VA,Va.,Va.,1,1,Richmond,Virginia Beach,,"Jun 25, 1788","8,470,020","42,775","110,787","39,490","102,279","3,285","8,508",11
+Washington,State,0,1,0,0,US-WA,WA,53,WA,WN,Wash.,Wash.,1,1,Olympia,Seattle,,"Nov 11, 1889","7,405,743","71,298","184,661","66,456","172,119","4,842","12,542",10
+West Virginia,State,0,1,0,0,US-WV,WV,54,WV,WV,W. Va.,W.Va.,1,1,Charleston,Charleston,,"Jun 20, 1863","1,815,857","24,230","62,756","24,038","62,259",192,497,3
+Wisconsin,State,0,1,0,0,US-WI,WI,55,WI,WS,Wis.,Wis.,1,1,Madison,Milwaukee,,"May 29, 1848","5,795,483","65,496","169,635","54,158","140,268","11,339","29,367",8
+Wyoming,State,0,1,0,0,US-WY,WY,56,WY,WY,Wyo.,Wyo.,1,1,Cheyenne,Cheyenne,,"Jul 10, 1890","579,315","97,813","253,335","97,093","251,470",720,"1,864",1
+American Samoa,Insular area (Territory),0,0,1,0,AS ASM 016 US-AS,AS,60,AS,AS,A.S.,American Samoa,0,0,Pago Pago,Pago Pago,1900,,"57,400",581,"1,505",76,198,505,"1,307",1
+Guam,Insular area (Territory),0,0,1,0,GU GUM 316 US-GU,GU,66,GU,GU,Guam,Guam,0,1,Hagåtña,Dededo,1899,,"161,700",571,"1,478",210,543,361,935,1
+Northern Mariana Islands,Insular area (Commonwealth),0,0,1,0,MP MNP 580 US-MP,MP,69,MP,CM,M.P.,Northern Mariana Islands,0,1,Saipan,Saipan,1986,,"52,300","1,976","5,117",182,472,"1,793","4,644",1
+Puerto Rico,Insular area (Territory),0,0,1,0,PR PRI 630 US-PR,PR,72,PR,PR,P.R.,Puerto Rico,0,1,San Juan,San Juan,1899,,"3,337,177","5,325","13,791","3,424","8,868","1,901","4,924",1
+U.S. Virgin Islands,Insular area (Territory),0,0,1,0,VI VIR 850 US-VI,VI,78,VI,VI,V.I.,U.S. Virgin Islands,0,1,Charlotte Amalie,Charlotte Amalie,1917,,"103,700",733,"1,898",134,348,599,"1,550",1
+U.S. Minor Outlying Islands,Insular areas,0,0,0,0,UM UMI 581 US-UM,UM,74,,,,,0,0,Washington DC,Wake Island,,,300,13.2,34.2,1.6,4.1,11.6,30.1,0

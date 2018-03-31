@@ -1,0 +1,1 @@
+{"route": "us_states", "columns_metadata": [{"category": "", "description": "", "data_type": "string", "title": "name", "extra": {"country": "United States of America"}, "tags": []}], "includes_any": [{"column": "is_state", "value": 1}], "columns": ["name"], "title": "US States list"}
