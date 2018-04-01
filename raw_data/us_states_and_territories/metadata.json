@@ -1,7 +1,7 @@
 {
     "largest_city":{
-       "category":"",
-       "description":"",
+       "category":"double_column",
+       "description":"Most populated city",
        "data_type":"string",
        "tags":[
  
@@ -12,20 +12,20 @@
        "title":"largest_city"
     },
     "total_square_kilometers":{
-       "category":"",
-       "description":"",
-       "data_type":"string",
+       "category":"double_column",
+       "description":"Total square kilometers",
+       "data_type":"float",
        "tags":[
  
-       ],
+    ],
        "extra":{
           "country":"United States of America"
        },
        "title":"total_square_kilometers"
     },
     "established_date":{
-       "category":"",
-       "description":"",
+       "category":"double_column",
+       "description":"Date established (states only)",
        "data_type":"string",
        "tags":[
  
@@ -36,8 +36,8 @@
        "title":"established_date"
     },
     "usps_code":{
-       "category":"",
-       "description":"",
+       "category":"double_column",
+       "description":"United States Postal Service code",
        "data_type":"string",
        "tags":[
  
@@ -48,9 +48,9 @@
        "title":"usps_code"
     },
     "land_square_kilometers":{
-       "category":"",
-       "description":"",
-       "data_type":"string",
+       "category":"double_column",
+       "description":"Total land square kilometers",
+       "data_type":"float",
        "tags":[
  
        ],
@@ -60,9 +60,9 @@
        "title":"land_square_kilometers"
     },
     "is_incorporated":{
-       "category":"",
-       "description":"",
-       "data_type":"string",
+       "category":"filter_column",
+       "description":"Bool if region is incorporated",
+       "data_type":"bool",
        "tags":[
  
        ],
@@ -72,8 +72,8 @@
        "title":"is_incorporated"
     },
     "uscg_code":{
-       "category":"",
-       "description":"",
+       "category":"double_column",
+       "description":"United States Coast Guard code",
        "data_type":"string",
        "tags":[
  
@@ -84,8 +84,8 @@
        "title":"uscg_code"
     },
     "category":{
-       "category":"",
-       "description":"",
+       "category":"double_column",
+       "description":"Type of region it is (state, commonwealth, insular territory, etc)",
        "data_type":"string",
        "tags":[
  
@@ -96,9 +96,9 @@
        "title":"category"
     },
     "land_square_miles":{
-       "category":"",
-       "description":"",
-       "data_type":"string",
+       "category":"double_column",
+       "description":"Total land square miles",
+       "data_type":"float",
        "tags":[
  
        ],
@@ -108,9 +108,9 @@
        "title":"land_square_miles"
     },
     "is_state":{
-       "category":"",
-       "description":"",
-       "data_type":"string",
+       "category":"filter_column",
+       "description":"Bool if is state",
+       "data_type":"bool",
        "tags":[
  
        ],
@@ -120,9 +120,9 @@
        "title":"is_state"
     },
     "representatives":{
-       "category":"",
-       "description":"",
-       "data_type":"string",
+       "category":"double_column",
+       "description":"Number of House representatives",
+       "data_type":"integer",
        "tags":[
  
        ],
@@ -132,8 +132,8 @@
        "title":"representatives"
     },
     "iso_3166":{
-       "category":"",
-       "description":"",
+       "category":"double_column",
+       "description":"ISO-3166 region code",
        "data_type":"string",
        "tags":[
  
@@ -144,9 +144,9 @@
        "title":"iso_3166"
     },
     "water_square_miles":{
-       "category":"",
-       "description":"",
-       "data_type":"string",
+       "category":"double_column",
+       "description":"Total water square miles",
+       "data_type":"float",
        "tags":[
  
        ],
@@ -156,8 +156,8 @@
        "title":"water_square_miles"
     },
     "capital":{
-       "category":"",
-       "description":"",
+       "category":"double_column",
+       "description":"Capital city",
        "data_type":"string",
        "tags":[
  
@@ -168,9 +168,9 @@
        "title":"capital"
     },
     "water_square_kilometers":{
-       "category":"",
-       "description":"",
-       "data_type":"string",
+       "category":"double_column",
+       "description":"Total water square kilometers",
+       "data_type":"float",
        "tags":[
  
        ],
@@ -180,9 +180,9 @@
        "title":"water_square_kilometers"
     },
     "population":{
-       "category":"",
-       "description":"",
-       "data_type":"string",
+       "category":"double_column",
+       "description":"Total population (2009 Census)",
+       "data_type":"integer",
        "tags":[
  
        ],
@@ -192,8 +192,8 @@
        "title":"population"
     },
     "ansi_alphabetic_code":{
-       "category":"",
-       "description":"",
+       "category":"double_column",
+       "description":"ANSI alphabetic region code",
        "data_type":"string",
        "tags":[
  
@@ -204,9 +204,9 @@
        "title":"ansi_alphabetic_code"
     },
     "is_territory":{
-       "category":"",
-       "description":"",
-       "data_type":"string",
+       "category":"bool_column",
+       "description":"Bool if territory",
+       "data_type":"bool",
        "tags":[
  
        ],
@@ -216,9 +216,9 @@
        "title":"is_territory"
     },
     "ansi_numeric_code":{
-       "category":"",
-       "description":"",
-       "data_type":"string",
+       "category":"double_column",
+       "description":"ANSI numeric region code",
+       "data_type":"integer",
        "tags":[
  
        ],
@@ -228,8 +228,8 @@
        "title":"ansi_numeric_code"
     },
     "ap_abbrev":{
-       "category":"",
-       "description":"",
+       "category":"double_column",
+       "description":"Associated Press region abbreviation",
        "data_type":"string",
        "tags":[
  
@@ -240,8 +240,8 @@
        "title":"ap_abbrev"
     },
     "acquired_date":{
-       "category":"",
-       "description":"",
+       "category":"double_column",
+       "description":"Date acquired (territories and insular regions)",
        "data_type":"string",
        "tags":[
  
@@ -252,9 +252,9 @@
        "title":"acquired_date"
     },
     "is_federal_district":{
-       "category":"",
-       "description":"",
-       "data_type":"string",
+       "category":"filter_column",
+       "description":"Bool if federal district (DC)",
+       "data_type":"bool",
        "tags":[
  
        ],
@@ -264,8 +264,8 @@
        "title":"is_federal_district"
     },
     "gpo_abbrev":{
-       "category":"",
-       "description":"",
+       "category":"double_column",
+       "description":"Government Printing Office abbreviations",
        "data_type":"string",
        "tags":[
  
@@ -276,9 +276,9 @@
        "title":"gpo_abbrev"
     },
     "is_commonwealth":{
-       "category":"",
-       "description":"",
-       "data_type":"string",
+       "category":"filter_column",
+       "description":"Bool if commonwealth",
+       "data_type":"bool",
        "tags":[
  
        ],
@@ -288,9 +288,9 @@
        "title":"is_commonwealth"
     },
     "is_organized":{
-       "category":"",
-       "description":"",
-       "data_type":"string",
+       "category":"filter_column",
+       "description":"Bool if organized region",
+       "data_type":"bool",
        "tags":[
  
        ],
@@ -300,8 +300,8 @@
        "title":"is_organized"
     },
     "name":{
-       "category":"",
-       "description":"",
+       "category":"single_column",
+       "description":"Name of region",
        "data_type":"string",
        "tags":[
  
@@ -312,9 +312,9 @@
        "title":"name"
     },
     "total_square_miles":{
-       "category":"",
-       "description":"",
-       "data_type":"string",
+       "category":"double_column",
+       "description":"Total square miles",
+       "data_type":"float",
        "tags":[
  
        ],
