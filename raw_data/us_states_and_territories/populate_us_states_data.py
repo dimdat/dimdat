@@ -29,6 +29,7 @@ def write_metadata(build, dataset_metadata, cols, dataset_dir):
 
 def main():
     df = pd.read_csv('data.csv')
+    df.sort_values(by=['name'])
     with open('builddata.json') as fp:
         builddata = json.load(fp)
     with open('metadata.json') as fp:
