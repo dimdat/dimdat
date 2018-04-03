@@ -54,5 +54,6 @@ if __name__ == '__main__':
     if len(sys.argv) > 1:
         path = sys.argv[-1]
 
+    os.chdir(os.path.dirname(os.path.abspath(__file__)))
     main(path)
     print('success')
