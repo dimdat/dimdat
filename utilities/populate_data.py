@@ -53,6 +53,7 @@ if __name__ == '__main__':
     path = None
     if len(sys.argv) > 1:
         path = sys.argv[-1]
+    os.chdir(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     dirs = [x for x in os.listdir('raw_data') if x != '.DS_Store']
     for d in dirs:
         os.chdir('./raw_data/{}'.format(d))
