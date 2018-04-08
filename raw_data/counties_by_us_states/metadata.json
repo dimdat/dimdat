@@ -1,0 +1,14 @@
+{
+    "state":{
+       "category":"filter_column",
+       "description":"State the county is a part of",
+       "data_type":"string",
+       "tags":[]
+    },
+    "county":{
+        "category":"single_column",
+        "description":"Name of the county",
+        "data_type":"string",
+        "tags":[]
+     }
+}

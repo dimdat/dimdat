@@ -1,0 +1,1 @@
+{"route": "counties_in_idaho", "columns_metadata": [{"category": "single_column", "description": "Name of the county", "data_type": "string", "tags": []}], "includes_any": [{"column": "state", "value": "Idaho"}], "columns": ["county"], "title": "Counties in Idaho"}

@@ -6,27 +6,10 @@
         "includes_any":[{"column": "is_state", "value": 1}]
     },
     {
-        "title": "US States, Districts, Territories, and Outlying Islands list",
-        "route": "us_states_all",
+        "title": "US States list",
+        "route": "us_states",
         "columns": ["name"],
-        "includes_any":[]
-    },
-    {
-        "title": "US States and Territories list",
-        "route": "us_states_and_territories",
-        "columns": ["name"],
-        "includes_any":[{"column": "is_state", "value": 1}, {"column": "is_territory", "value": 1}]
-    },
-    {
-        "title": "US States and DC list",
-        "route": "us_states_and_districts",
-        "columns": ["name"],
-        "includes_any":[{"column": "is_state", "value": 1}, {"column": "is_federal_district", "value": 1}]
-    },
-    {
-        "title": "US States, Districts, and Territories list",
-        "route": "us_states_districts_and_territories",
-        "columns": ["name"],
-        "includes_any":[{"column": "is_state", "value": 1}, {"column": "is_territory", "value": 1}, {"column": "is_federal_district", "value": 1}]
+        "includes_any":[{"column": "is_state", "value": 1}]
     }
+
 ]
