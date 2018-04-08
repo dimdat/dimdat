@@ -1,0 +1,1 @@
+{"route": "counties_in_west_virginia", "columns_metadata": [{"category": "single_column", "description": "Name of the county", "data_type": "string", "tags": []}], "includes_any": [{"column": "state", "value": "West Virginia"}], "columns": ["county"], "title": "Counties in West Virginia"}

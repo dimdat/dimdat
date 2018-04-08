@@ -1,1 +1,0 @@
-{"route": "us_states_all", "columns_metadata": [{"category": "single_column", "description": "Name of region", "data_type": "string", "title": "name", "extra": {"country": "United States of America"}, "tags": []}], "includes_any": [], "columns": ["name"], "title": "US States, Districts, Territories, and Outlying Islands list"}

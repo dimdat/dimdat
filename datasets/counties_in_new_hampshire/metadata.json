@@ -1,0 +1,1 @@
+{"route": "counties_in_new_hampshire", "columns_metadata": [{"category": "single_column", "description": "Name of the county", "data_type": "string", "tags": []}], "includes_any": [{"column": "state", "value": "New Hampshire"}], "columns": ["county"], "title": "Counties in New Hampshire"}
