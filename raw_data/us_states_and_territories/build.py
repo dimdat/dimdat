@@ -11,16 +11,13 @@ cols = [
     'gpo_abbrev',
     'ap_abbrev',
     'capital',
-    'largest_city',
     'established_date',
-    'population',
     'total_square_miles',
     'total_square_kilometers',
     'land_square_miles',
     'land_square_kilometers',
     'water_square_miles',
     'water_square_kilometers',
-    'representatives'
 ]
 
 other_data = {
